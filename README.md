@@ -4,3 +4,6 @@
 * 使用工具：Andriod Studio、Kotlin
 
 ### **Andriod Studio & JDK - Prepare The Enviroments**
+> **1.Download JDK from Oracle**
+* **點選符合自己系統的檔案並下載dmg檔**
+* [Oracle下載網站](https://www.oracle.com/java/technologies/downloads/#jdk18-mac)
