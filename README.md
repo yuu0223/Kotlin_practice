@@ -15,6 +15,6 @@
 
 > **3. Install Android Studio**
 * **Complete Installation** > Do not import settings. <br/>
-（在這邊的話，如果沒有要導入以前的版本就可以直接選取Do not import settings.）
+(在這邊的話，如果沒有要導入以前的版本就可以直接選取Do not import settings.)
 
 * **Android SDK相關套件下載** > 會自動導入要下載哪些套件，只要按Accept就可。
