@@ -6,9 +6,9 @@
 ### **Android Studio & JDK - Prepare The Enviroments**
 > **1.Download JDK from Oracle**
 * **下載符合自己系統的dmg檔 (ARM:M1晶片/x64:Intel晶片)**
-  <img src="https://github.com/yuu0223/Kotlin_practice/blob/main/Pictures/jdk_download.png" width="400" alt="jdk_download"/><br/>
+<img src="https://github.com/yuu0223/Kotlin_practice/blob/main/Pictures/jdk_download.png" width="1000" alt="jdk_download"/><br/>
 * [Oracle下載網站](https://www.oracle.com/java/technologies/downloads/#jdk18-mac)
 
 > **2. Download Android Studio**
 * [Android Studio下載網站](https://developer.android.com/studio)
-  <img src="https://github.com/yuu0223/Kotlin_practice/blob/main/Pictures/android_download.png" width="400" alt="android_download"/><br/>
+<img src="https://github.com/yuu0223/Kotlin_practice/blob/main/Pictures/android_download.png" width="600" alt="android_download"/><br/>
