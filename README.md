@@ -31,4 +31,9 @@
 2. MVP (Model View Presenter)
 3. MVVM (Model View View-Model)
 
+這次的練習選擇以MVVM來練習，首先來看MVVM的架構圖：<br/>
+<img src="https://github.com/yuu0223/Kotlin_practice/blob/main/Pictures/MVVM.png" width="600" alt="MVVM"/><br/>
+圖片轉自[Android in Kotlin: MVVM 架構分享 —— 簡介 By BennyWang4000](https://ithelp.ithome.com.tw/articles/10248755)
+
+
 
