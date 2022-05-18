@@ -50,18 +50,20 @@
 以上1~4都是要放置在Activities層下，用來設計畫面動作的。至於XML是另外放置在res/layout層下的，用來刻UI畫面。<br/>
 
 <br/>
+
 > Model
 
 包含所有的data class、Repository，負責儲存或取得資料，可以透過api形式、本地DB形式等。
 
 <br/>
+
 > View-Model
 
 負責幫忙Activity(View)及Repository(Model)進行資料交換，可以透過observe、databinding的方式來呈現。他不需要知道
 
 <br/>
 * What is observe and databinding?
-
+<br/>
 Observe是透過觀察的方式，當前端(View)需要資料時才會去呼叫View-Model，請他跟後端(Model)拿資料。
 
 Databinding的話，他是把data跟UI元件擺在一起，不需要手動把數據設計給UI元件。
