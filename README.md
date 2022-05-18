@@ -33,21 +33,19 @@
 <br/>
 這次的練習選擇以MVVM來練習，首先來看MVVM的架構圖：<br/>
 <img src="https://github.com/yuu0223/Kotlin_practice/blob/main/Pictures/MVVM.png" width="600" alt="MVVM"/><br/>
-圖片轉自https://ithelp.ithome.com.tw/articles/10248755
-<br/>
+圖片轉自https://ithelp.ithome.com.tw/articles/10248755 <br/>
 
 > View
 
-前端在做畫面設計、動作設計，任何與畫面有關的都屬於View。
-<br/>
+前端在做畫面設計、動作設計，任何與畫面有關的都屬於View。<br/>
+
 像是下列幾項都屬於View：
 1. Activity
 2. Fragment
 3. Adapter
 4. Layout
 5. XML(只有這個是屬於刻UI頁面的部分)
-<br/>
-以上1~4都是要放置在Activities層下，用來設計畫面動作的。至於XML是另外放置在res/layout層下的，用來刻UI畫面。
+* 以上1~4都是要放置在Activities層下，用來設計畫面動作的。至於XML是另外放置在res/layout層下的，用來刻UI畫面。
 <br/>
 
 > Model
