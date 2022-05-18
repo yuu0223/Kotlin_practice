@@ -7,6 +7,7 @@
 ## **Outlines**
 * [Android Studio & JDK - Prepare The Enviroments](#android-studio--jdk---prepare-the-enviroments)
 * [Architetural Pattern - MVVM](#introduce-architetural-pattern---mvvm)
+* [Reference](#reference)
 * * * *
 
 ## **Android Studio & JDK - Prepare The Enviroments**
