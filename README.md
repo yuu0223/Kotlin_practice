@@ -3,7 +3,7 @@
 * 主要是想紀錄自己寫APP所遇到的各種大小事！
 * 使用工具：Android Studio、Kotlin
 
-### **Outlines**
+## **Outlines**
 * [Android Studio & JDK - Prepare The Enviroments](https://github.com/yuu0223/Kotlin_practice/blob/main/README.md#android-studio--jdk---prepare-the-enviroments)
 
 ### **Android Studio & JDK - Prepare The Enviroments**
