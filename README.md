@@ -4,7 +4,7 @@
 * 使用工具：Android Studio、Kotlin
 
 ### **Outlines**
-* [Android Studio & JDK - Prepare The Enviroments]([https://github.com/yuu0223/Kotlin_practice#Android Studio & JDK - Prepare The Enviroments](https://github.com/yuu0223/Kotlin_practice/blob/main/README.md#android-studio--jdk---prepare-the-enviroments)
+* [Android Studio & JDK - Prepare The Enviroments](https://github.com/yuu0223/Kotlin_practice/blob/main/README.md#android-studio--jdk---prepare-the-enviroments)
 
 ### **Android Studio & JDK - Prepare The Enviroments**
 > **1. Download JDK from Oracle**
