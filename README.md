@@ -5,7 +5,7 @@
 
 ## **Outlines**
 * [Android Studio & JDK - Prepare The Enviroments](#android-studio--jdk---prepare-the-enviroments)
-* * * *
+* *
 
 ### **Android Studio & JDK - Prepare The Enviroments**
 > **1. Download JDK from Oracle**
