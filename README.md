@@ -6,7 +6,7 @@
 
 ## **Outlines**
 * [Android Studio & JDK - Prepare The Enviroments](#android-studio--jdk---prepare-the-enviroments)
-* [About Architetural Pattern - MVVM](#about-architetural-pattern---mvvm)
+* [Architetural Pattern - MVVM](#introduce-architetural-pattern---mvvm)
 * * * *
 
 ## **Android Studio & JDK - Prepare The Enviroments**
@@ -25,4 +25,4 @@
 
 * **Android SDK相關套件下載** > 會自動導入要下載哪些套件，只要按Accept就可。
 * * * *
-## **About Architetural Pattern - MVVM**
+## **Introduce Architetural Pattern - MVVM**
