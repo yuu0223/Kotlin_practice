@@ -26,3 +26,7 @@
 * **Android SDK相關套件下載** > 會自動導入要下載哪些套件，只要按Accept就可。
 * * * *
 ## **Introduce Architetural Pattern - MVVM**
+* 在Android APP開發中，最常見的架構有這三種：
+1. MVC (Model View Controller)
+2. MVP (Model View Presenter)
+3. MVVM (Model View View-Model)
