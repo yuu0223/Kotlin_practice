@@ -59,11 +59,11 @@
 
 > View-Model
 
-負責幫忙Activity(View)及Repository(Model)進行資料交換，可以透過observe、databinding的方式來呈現。他不需要知道<br/>
+負責幫忙Activity(View)及Repository(Model)進行資料交換，可以透過observe、databinding的方式來呈現。他不需要知道資料從哪裡來，只需要持有View所需的資料就好。<br/>
 
 <br/>
 
-* **What is observe and databinding?**
+**What is observe and databinding?**
 
 Observe是透過觀察的方式，當前端(View)需要資料時才會去呼叫View-Model，請他跟後端(Model)拿資料。
 
