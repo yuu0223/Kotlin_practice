@@ -69,6 +69,8 @@ Observe是透過觀察的方式，當前端(View)需要資料時才會去呼叫V
 
 Databinding的話，他是把data跟UI元件擺在一起，不需要手動把數據設計給UI元件。
 
-
-
-
+- - -
+### **Reference**
+* [Android in Kotlin: MVVM 架構分享 —— 簡介](https://ithelp.ithome.com.tw/articles/10248755)
+* [MVVM — 架構篇：書讀得多，人自然就好看起來](https://medium.com/ken-do-everything/mvvm-%E6%9E%B6%E6%A7%8B%E7%AF%87-%E6%9B%B8%E8%AE%80%E5%BE%97%E5%A4%9A-%E4%BA%BA%E8%87%AA%E7%84%B6%E5%B0%B1%E5%A5%BD%E7%9C%8B%E8%B5%B7%E4%BE%86-4fd595581e7f)
+* [Day 8 Data Binding (一) 介紹與基本使用](https://ithelp.ithome.com.tw/articles/10219729)
