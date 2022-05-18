@@ -62,8 +62,8 @@
 負責幫忙Activity(View)及Repository(Model)進行資料交換，可以透過observe、databinding的方式來呈現。他不需要知道
 
 <br/>
-* What is observe and databinding?
-<br/>
+* **What is observe and databinding?**
+
 Observe是透過觀察的方式，當前端(View)需要資料時才會去呼叫View-Model，請他跟後端(Model)拿資料。
 
 Databinding的話，他是把data跟UI元件擺在一起，不需要手動把數據設計給UI元件。
