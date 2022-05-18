@@ -35,8 +35,7 @@
 <img src="https://github.com/yuu0223/Kotlin_practice/blob/main/Pictures/MVVM.png" width="600" alt="MVVM"/><br/>
 圖片轉自https://ithelp.ithome.com.tw/articles/10248755 
 
-==
-
+- - -
 > View
 
 前端在做畫面設計、動作設計，任何與畫面有關的都屬於View。<br/>
