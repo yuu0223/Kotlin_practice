@@ -7,7 +7,7 @@
 * [Android Studio & JDK - Prepare The Enviroments](#android-studio--jdk---prepare-the-enviroments)
 * * * * *
 
-### **Android Studio & JDK - Prepare The Enviroments**
+## **Android Studio & JDK - Prepare The Enviroments**
 > **1. Download JDK from Oracle**
 * [Oracle下載網站](https://www.oracle.com/java/technologies/downloads/#jdk18-mac)
 * **下載符合自己系統的dmg檔 (ARM:M1晶片 / x64:Intel晶片)** <br/>
