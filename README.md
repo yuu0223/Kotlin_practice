@@ -1,11 +1,13 @@
 # Kotlin_practice
 ### **About**
-* 主要是想紀錄自己寫APP所遇到的各種大小事！
+* 主要是想紀錄自己初學APP所遇到的各種大小事！
 * 使用工具：Android Studio、Kotlin
+* 架構：MVVM
 
 ## **Outlines**
 * [Android Studio & JDK - Prepare The Enviroments](#android-studio--jdk---prepare-the-enviroments)
-* * * * *
+* [About Architetural Pattern - MVVM](#about-architetural-pattern---mvvm)
+* * * *
 
 ## **Android Studio & JDK - Prepare The Enviroments**
 > **1. Download JDK from Oracle**
@@ -22,3 +24,5 @@
 (在這邊的話，如果沒有要導入以前的版本就可以直接選取Do not import settings.)
 
 * **Android SDK相關套件下載** > 會自動導入要下載哪些套件，只要按Accept就可。
+* * * *
+## **About Architetural Pattern - MVVM**
